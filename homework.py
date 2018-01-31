@@ -193,4 +193,6 @@ def exe4():
         for n in trunk_values:
             print n
 
+"""
 exe4()
+"""
